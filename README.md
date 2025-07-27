@@ -7,7 +7,6 @@
 
 - 🤝 I’m looking for help with **Database applications** and **Azure applications**
 
-- 📫 How to reach me **chenkenny414@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
