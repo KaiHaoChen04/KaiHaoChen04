@@ -1,7 +1,7 @@
 <h1 align="center">Hello World, I'm Kai</h1>
 <h3 align="center">A Software Developer and upcoming 3rd year CS student from York University</h3>
 
-- 🔭 I’m currently working on a machine learning model for NBA 
+- 🔭 I’m currently working on a machine learning model for NBA as well as an audio player coded in Rust
 
 - 🌱 I’m currently learning **Building Data-Intensive Applications, Operating Systems, and Neural Network tools**
 
