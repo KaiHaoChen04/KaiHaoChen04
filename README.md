@@ -1,11 +1,11 @@
 <h1 align="center">Hello World, I'm Kai</h1>
 <h3 align="center">A Software Developer and upcoming 3rd year CS student from York University</h3>
 
-- 🔭 I’m currently working on a machine learning model for NBA as well as an audio player coded in Rust
+- 🔭 I’m currently working on rust-focused TUI applications
 
-- 🌱 I’m currently learning **Building Data-Intensive Applications, Operating Systems, and Neural Network tools**
+- 🌱 I’m currently learning **Building Data-Intensive Applications, Rust applications, and Cybersecurity**
 
-- 🤝 I’m looking for help with **Database applications** and **Azure applications**
+- 🤝 I’m looking for collaborations with **Rust TUI** and **Cybersecurity**
 
 
 <h3 align="left">Connect with me:</h3>
